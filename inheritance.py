@@ -81,3 +81,8 @@ class wahka:
     @property  # This Property changes this function to attribute
     def wal(self):
         print("Hello")
+
+
+
+#Abstraction
+#Focus: Hiding implementation details and showing only the essential features
